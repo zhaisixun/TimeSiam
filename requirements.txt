@@ -8,7 +8,7 @@ scikit_learn
 scipy
 sktime==0.4.1
 sympy
-torch
+#torch
 tqdm
 tensorboardX
 seaborn
